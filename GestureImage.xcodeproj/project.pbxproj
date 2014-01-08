@@ -21,6 +21,7 @@
 		00AFBCD7187CD4BC00DD878F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00AFBCB9187CD4BC00DD878F /* UIKit.framework */; };
 		00AFBCDF187CD4BC00DD878F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00AFBCDD187CD4BC00DD878F /* InfoPlist.strings */; };
 		00AFBCE1187CD4BC00DD878F /* GestureImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AFBCE0187CD4BC00DD878F /* GestureImageTests.m */; };
+		00AFBCEB187CD4D100DD878F /* ball1.png in Resources */ = {isa = PBXBuildFile; fileRef = 00AFBCEA187CD4D100DD878F /* ball1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00AFBCDC187CD4BC00DD878F /* GestureImageTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GestureImageTests-Info.plist"; sourceTree = "<group>"; };
 		00AFBCDE187CD4BC00DD878F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00AFBCE0187CD4BC00DD878F /* GestureImageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GestureImageTests.m; sourceTree = "<group>"; };
+		00AFBCEA187CD4D100DD878F /* ball1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		00AFBCBC187CD4BC00DD878F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				00AFBCEA187CD4D100DD878F /* ball1.png */,
 				00AFBCBD187CD4BC00DD878F /* GestureImage-Info.plist */,
 				00AFBCBE187CD4BC00DD878F /* InfoPlist.strings */,
 				00AFBCC1187CD4BC00DD878F /* main.m */,
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00AFBCEB187CD4D100DD878F /* ball1.png in Resources */,
 				00AFBCCE187CD4BC00DD878F /* Images.xcassets in Resources */,
 				00AFBCC0187CD4BC00DD878F /* InfoPlist.strings in Resources */,
 				00AFBCC9187CD4BC00DD878F /* Main.storyboard in Resources */,
